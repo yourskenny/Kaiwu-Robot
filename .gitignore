@@ -1,0 +1,9 @@
+# Ignore virtual environments, IDE files, and data
+.vscode/
+.env
+log/
+__pycache__/
+*.pyc
+dev/.env
+dev/log/
+code/
